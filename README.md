@@ -2,7 +2,7 @@
 # Doctors APP
 Spring Boot Rest api CRUD application to handle and create doctor entities.
 
-### Web Rest api GameHanling
+### Web Rest api Doctors
 For the deployment:
 Java version: 11.0.14
 Maven version: 3.8.5
